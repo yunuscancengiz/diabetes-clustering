@@ -48,11 +48,12 @@ This project aims to predict diabetes occurrence using a dataset containing vari
 3. Outputs such as plots and model performance metrics will be saved in the plots directory.
 
 ## Project Structure
-├── main.py                 # Main script for the project
-├── plots/                  # Directory to save generated plots
-├── requirements.txt        # Dependencies for the project
-├── README.md               # Project documentation
-
+  ```bash
+  ├── main.py                 # Main script for the project
+  ├── plots/                  # Directory to save generated plots
+  ├── requirements.txt        # Dependencies for the project
+  ├── README.md               # Project documentation
+  ```
 
 ## Dependencies
 - Python 3.8 or later
